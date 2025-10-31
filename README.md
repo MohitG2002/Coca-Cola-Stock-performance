@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Project Motivation and Goal
+## Project Motivation and Goal
 
 The Coca-Cola Company (KO) is a defensive blue-chip stock, but understanding its long-term direction and volatility is key for investors.
 
@@ -14,7 +14,7 @@ This project's goal is to provide a comprehensive **Data Analysis** of KO's hist
 2.  **Performance Analysis:** Analyzing price trends, volume spikes, and volatility patterns.
 3.  **Investor Strategy:** Concluding with clear recommendations for long-term and short-term traders.
 
-## 💾 Data and Methodology
+## Data and Methodology
 
 ### Datasets
 
@@ -29,7 +29,7 @@ This project's goal is to provide a comprehensive **Data Analysis** of KO's hist
 * **Key Indicator:** The **50-Day and 200-Day Simple Moving Averages (SMA)** were calculated to define short-term momentum and long-term support/resistance levels.
 * **Analysis Focus:** The analysis centered on the relationship between the price and the 200-Day SMA, which is a classic signal for a sustained **bullish trend**.
 
-## 🚀 Get Started
+## Get Started
 
 ### Prerequisites
 
